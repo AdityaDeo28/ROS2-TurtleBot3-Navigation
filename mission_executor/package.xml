@@ -3,9 +3,9 @@
 <package format="3">
   <name>mission_executor</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>ROS 2 node that sends waypoint missions to Nav2 using BasicNavigator</description>
   <maintainer email="adityadeo2003@gmail.com">aditya</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <depend>nav2_msgs</depend>

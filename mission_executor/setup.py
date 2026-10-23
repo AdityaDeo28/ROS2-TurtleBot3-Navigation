@@ -15,8 +15,8 @@ setup(
     zip_safe=True,
     maintainer='aditya',
     maintainer_email='adityadeo2003@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='ROS 2 node that sends waypoint missions to Nav2 using BasicNavigator',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',
